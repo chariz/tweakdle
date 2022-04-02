@@ -6,6 +6,8 @@
 
 **A really bad clone of Wordle hacked together in a few hours by your friends at Chariz for April Fools Day 2022.**
 
+<h2 align="center">Play it at <a href="https://tweakdle.chariz.com/">tweakdle.chariz.com</a></h2>
+
 ## Credits
 <p align="center">
 <a href="https://chariz.com/">
