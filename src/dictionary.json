@@ -1,0 +1,627 @@
+[
+  {
+    "id": "com.ginsu.acies",
+    "author": "Ginsu",
+    "name": "Acies",
+    "nameBits": ["Acies"],
+    "icon": "https://havoc.app/media/620c807b1af6a544121a437d",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "jp.dcsyhi.airaw",
+    "author": "Dcsyhi",
+    "name": "Airaw",
+    "nameBits": ["Airaw"],
+    "icon": "https://img.chariz.cloud/icon/airaw/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.tr1fecta.akara",
+    "author": "Tr1Fecta & Kennyroo",
+    "name": "Akara",
+    "nameBits": ["Akara"],
+    "icon": "https://img.chariz.cloud/icon/akara/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.ethanrdoesmc.arise",
+    "author": "EthanRDoesMC",
+    "name": "Arise",
+    "nameBits": ["Arise"],
+    "icon": "https://havoc.app/media/6209ddaa5f40df2a411f40ed",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "com.chr1s.atlas",
+    "author": "chris",
+    "name": "Atlas",
+    "nameBits": ["Atlas"],
+    "icon": "https://havoc.app/media/620c1d3988124c0a2af3f825",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "me.lau.atria",
+    "author": "ren7995",
+    "name": "Atria",
+    "nameBits": ["Atria"],
+    "icon": "https://img.chariz.cloud/icon/atria/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.megadev.b3rry",
+    "author": "MegaDev",
+    "name": "B3rry",
+    "nameBits": ["Berry"],
+    "icon": "https://repo.packix.com/api/Packages/5e6c1f2c10df79001a1a06e9/icon/download?size=medium&hash=5e6c1f2d10df79001a1a06ef",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.yakir.bezon",
+    "author": "DevelopApple",
+    "name": "Bezon",
+    "nameBits": ["Bezon"],
+    "icon": "https://repo.packix.com/api/Packages/5d0224526263390013078969/icon/download?size=medium&hash=2",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.opa334.crane",
+    "author": "opa334",
+    "name": "Crane",
+    "nameBits": ["Crane"],
+    "icon": "https://havoc.app/media/61ffad4e82c2e1d835f525ba",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "com.opa334.cranelite",
+    "author": "opa334",
+    "name": "Crane Lite",
+    "nameBits": ["Crane"],
+    "icon": "https://havoc.app/media/61ffad2382c2e1d835f52444",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "cydia",
+    "author": "Jay Freeman (saurik)",
+    "name": "Cydia Installer",
+    "nameBits": ["Cydia"],
+    "icon": "https://chariz.com/img/cydia.png",
+    "section": "Packaging",
+    "repo": "Elucubratus/Procursus"
+  },
+  {
+    "id": "com.laughingquoll.daisy",
+    "author": "LaughingQuoll",
+    "name": "Daisy",
+    "nameBits": ["Daisy"],
+    "icon": "https://img.chariz.cloud/icon/daisy/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.lnx.dimid",
+    "author": "LonestarX",
+    "name": "Dimid",
+    "nameBits": ["Dimid"],
+    "icon": "https://repo.packix.com/api/Packages/5d7564a93fb7400011e7edbd/icon/download?size=medium&hash=5d7564e83fb7400011e7f0e9",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "me.conorthedev.dotto+",
+    "author": "ConorTheDev & Mirac",
+    "name": "dotto+",
+    "nameBits": ["dotto"],
+    "icon": "https://repo.dynastic.co/data/static/version/362632385163952128/385483070616109056?size=180",
+    "section": "Tweaks",
+    "repo": "Dynastic"
+  },
+  {
+    "id": "com.megadev.dra1n",
+    "author": "MegaDev & Amy While",
+    "name": "Dra1n",
+    "nameBits": ["Drain"],
+    "section": "Tweaks",
+    "repo": "Dynastic"
+  },
+  {
+    "id": "com.p2kdev.dusky",
+    "author": "P2KDev",
+    "name": "Dusky",
+    "nameBits": ["Dusky"],
+    "icon": "https://repo.packix.com/api/Packages/5eac7dfa69dc9a001a5617c9/icon/download?size=medium&hash=5eac7dfa69dc9a001a5617cf",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.mtac.epoch",
+    "author": "MTAC",
+    "name": "Epoch",
+    "nameBits": ["Epoch"],
+    "icon": "https://repo.packix.com/api/Packages/5dba428d2b5f5a001a527955/icon/download?size=medium&hash=5dba428e2b5f5a001a52795a",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.cpdigitaldarkroom.benrosen.facespro",
+    "author": "Ben Rosen & CPDigitalDarkroom",
+    "name": "Faces Pro",
+    "nameBits": ["Faces"],
+    "icon": "https://repo.packix.com/api/Packages/5b67aaf772ff89001134bf8a/icon/download?size=medium&hash=5ccc6638945bff00112b7ca9",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.smokin1337.fdots",
+    "author": "smokin1337",
+    "name": "FDots",
+    "nameBits": ["FDots"],
+    "icon": "https://repo.packix.com/api/Packages/5afb8937fbe20f24c98d340f/icon/download?size=medium&hash=5ccc5fb9945bff00112b5f36",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.tigisoftware.filza",
+    "author": "TIGI Software",
+    "name": "Filza File Manager",
+    "nameBits": ["Filza"],
+    "section": "Utilities",
+    "repo": "BigBoss"
+  },
+  {
+    "id": "com.thomz.foldy",
+    "author": "Thomz",
+    "name": "Foldy",
+    "nameBits": ["Foldy"],
+    "icon": "https://repo.packix.com/api/Packages/5e59603f1db961001a5dc277/icon/download?size=medium&hash=5e59603f1db961001a5dc27c",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.smokin1337.fugap",
+    "author": "smokin1337",
+    "name": "FUGap",
+    "nameBits": ["FUGap"],
+    "icon": "https://repo.packix.com/api/Packages/5b5129676e50280010d05387/icon/download?size=medium&hash=5ccc634e945bff00112b6fd0",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.chr1s.gears",
+    "author": "Chr1s",
+    "name": "Gears",
+    "nameBits": ["Gears"],
+    "icon": "https://repo.packix.com/api/Packages/5fefcbe4086b6d001a0999bd/icon/download?size=medium&hash=5fefd33e00f841001b3205da",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.blackhole.Gesto13",
+    "author": "Alessandro Chiarlitti and Gabriele Filipponi",
+    "name": "Gesto for iOS 13/14",
+    "nameBits": ["Gesto"],
+    "icon": "https://repo.dynastic.co/data/static/version/431404583437205504/431404583655309312?size=180",
+    "section": "Tweaks",
+    "repo": "Dynastic"
+  },
+  {
+    "id": "com.ginsu.gradi",
+    "author": "Ginsu",
+    "name": "Gradi",
+    "nameBits": ["Gradi"],
+    "icon": "https://havoc.app/media/620c801e1af6a544121a2bfc",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "com.peterdev.grupi",
+    "author": "timeloop",
+    "name": "Grupi",
+    "nameBits": ["Grupi"],
+    "icon": "https://havoc.app/media/620c639ee96ba40e823ed4a6",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "com.midnightchips.harpy",
+    "author": "midnightchips",
+    "name": "Harpy",
+    "nameBits": ["Harpy"],
+    "icon": "https://repo.packix.com/api/Packages/5d5deb04a3e0e1001bcf4910/icon/download?size=medium&hash=5d5deb04a3e0e1001bcf4915",
+    "section": "Development",
+    "repo": "Packix"
+  },
+  {
+    "id": "me.midnightchips.harpy-reloaded",
+    "author": "MidnightChips",
+    "name": "Harpy Reloaded",
+    "nameBits": ["Harpy"],
+    "icon": "https://img.chariz.cloud/icon/harpy-reloaded/icon@3x.png",
+    "section": "Utilities",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.spark.juice",
+    "author": "Spark",
+    "name": "Juice",
+    "nameBits": ["Juice"],
+    "section": "Tweaks",
+    "repo": "SparkDev"
+  },
+  {
+    "id": "com.spark.juicelite",
+    "author": "Spark",
+    "name": "Juice Lite",
+    "nameBits": ["Juice"],
+    "section": "Tweaks",
+    "repo": "SparkDev"
+  },
+  {
+    "id": "com.cemck.killx-pro",
+    "author": "cemck",
+    "name": "KillX Pro",
+    "nameBits": ["KillX"],
+    "icon": "https://repo.packix.com/api/Packages/5d697981a0f3bf00137cb24d/icon/download?size=medium&hash=5d697981a0f3bf00137cb252",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.ali.kleanhsls",
+    "author": "alimaulana",
+    "name": "Klean",
+    "nameBits": ["Klean"],
+    "icon": "https://repo.packix.com/api/Packages/5fdc4056b37968001bb04a3d/icon/download?size=medium&hash=5fdc4056b37968001bb04a43",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.midnightchips.ldRun",
+    "author": "midnightchips",
+    "name": "ldRun",
+    "nameBits": ["ldRun"],
+    "icon": "https://repo.packix.com/api/Packages/5b5325ad357aa9001073a7df/icon/download?size=medium&hash=2",
+    "section": "Development",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.navidmx.lotusdark",
+    "author": "Navid Mamoon (navidmx)",
+    "name": "Lotus Dark",
+    "nameBits": ["Lotus"],
+    "icon": "https://repo.packix.com/api/Packages/5b47519f6ac1730010e15003/icon/download?size=medium&hash=5ccc60d2945bff00112b68c1",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "org.s1ris.lower",
+    "author": "s1ris",
+    "name": "Lower",
+    "nameBits": ["Lower"],
+    "icon": "https://repo.packix.com/api/Packages/5f435928aef9fb001ac5105d/icon/download?size=medium&hash=2",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.noisyflake.magma",
+    "author": "NoisyFlake",
+    "name": "Magma",
+    "nameBits": ["Magma"],
+    "icon": "https://repo.packix.com/api/Packages/5ce5034965b4ff001ba3a3f1/icon/download?size=medium&hash=2",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.noisyflake.magmaevo",
+    "author": "NoisyFlake",
+    "name": "Magma Evo",
+    "nameBits": ["Magma"],
+    "icon": "https://img.chariz.cloud/icon/magma-evo/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.noisyflake.magmapro",
+    "author": "NoisyFlake",
+    "name": "Magma Pro",
+    "nameBits": ["Magma"],
+    "icon": "https://repo.packix.com/api/Packages/5cf9313469f574001bc72144/icon/download?size=medium&hash=5d229f73f01adb0014b29227",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.bengiannis.manta",
+    "author": "Ben Giannis",
+    "name": "Manta",
+    "nameBits": ["Manta"],
+    "icon": "https://repo.packix.com/api/Packages/5d1cc83efd4f34001afa8c79/icon/download?size=medium&hash=5d229bccf01adb0014b28a43",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.laughingquoll.maple",
+    "author": "LaughingQuoll",
+    "name": "Maple",
+    "nameBits": ["Maple"],
+    "icon": "https://repo.packix.com/api/Packages/5ce7d6b339ba05001b7708e2/icon/download?size=medium&hash=5d229abbf01adb0014b2881c",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.laughingquoll.maple2",
+    "author": "LaughingQuoll",
+    "name": "Maple 2",
+    "nameBits": ["Maple"],
+    "icon": "https://repo.packix.com/api/Packages/5de4a782465d8d001aa31c33/icon/download?size=medium&hash=5de4a782465d8d001aa31c38",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "me.siriusdev.mybar",
+    "author": "Sirius24",
+    "name": "myBar",
+    "nameBits": ["myBar"],
+    "icon": "https://repo.packix.com/api/Packages/5ec41d7dab4bc6001a71a9ed/icon/download?size=medium&hash=5ec41d7dab4bc6001a71a9f3",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "ws.hbang.ncpad",
+    "author": "HASHBANG Productions",
+    "name": "NCPad",
+    "nameBits": ["NCPad"],
+    "icon": "https://repo.packix.com/api/Packages/5d7565853fb7400011e7f83a/icon/download?size=medium&hash=2",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.mtac.noire",
+    "author": "MTAC",
+    "name": "Noire",
+    "nameBits": ["Noire"],
+    "icon": "https://repo.packix.com/api/Packages/5dd1ed1fe6863b001a5a4dbf/icon/download?size=medium&hash=2",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.johnzaro.orion",
+    "author": "John Zarogiannis",
+    "name": "Orion",
+    "nameBits": ["Orion"],
+    "icon": "https://img.chariz.cloud/icon/orion/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "me.tale.panic",
+    "author": "Aarnav Tale",
+    "name": "Panic!",
+    "nameBits": ["Panic"],
+    "icon": "https://apt.tale.me/packages/me.tale.panic/icon.png",
+    "section": "Tweaks",
+    "repo": "Tale"
+  },
+  {
+    "id": "com.laughingquoll.prysm",
+    "author": "timeloop",
+    "name": "Prysm",
+    "nameBits": ["Prysm"],
+    "icon": "https://havoc.app/media/620c63c5e96ba40e823edae2",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "com.laughingquoll.quart",
+    "author": "timeloop",
+    "name": "Quart",
+    "nameBits": ["Quart"],
+    "icon": "https://havoc.app/media/620c6473e96ba40e823f2c38",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "com.p2kdev.sakal",
+    "author": "P2KDev",
+    "name": "Sakal",
+    "nameBits": ["Sakal"],
+    "icon": "https://repo.packix.com/api/Packages/5dfdbaf54cd78f001aa62a35/icon/download?size=medium&hash=5dfdbaf54cd78f001aa62a3a",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.miwix.seeya-pro",
+    "author": "Lavie Gariv",
+    "name": "SeeYa Pro",
+    "nameBits": ["SeeYa"],
+    "icon": "https://repo.packix.com/api/Packages/61d37d1d610802001b59616f/icon/download?size=medium&hash=61d37d1d610802001b596175",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "org.coolstar.sileo",
+    "author": "Sileo Team",
+    "name": "Sileo",
+    "nameBits": ["Sileo"],
+    "icon": "https://chariz.com/img/sileo.png",
+    "section": "Packaging",
+    "repo": "Sileo"
+  },
+  {
+    "id": "com.megadev.r0wdrunner.situm",
+    "author": "R0wDrunner & MegaDev",
+    "name": "SITUM",
+    "nameBits": ["SITUM"],
+    "icon": "https://repo.packix.com/api/Packages/5e7a2dddcfc8a6003d939f77/icon/download?size=medium&hash=5e7a2dddcfc8a6003d939f7d",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.r0wdrunner.situmpro",
+    "author": "R0wDrunner",
+    "name": "SITUM Pro",
+    "nameBits": ["SITUM"],
+    "icon": "https://repo.packix.com/api/Packages/5ea8f51ca845f8001aab0553/icon/download?size=medium&hash=5ea8f51ca845f8001aab0559",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.samgisaninja.snell",
+    "author": "Samg_is_a_Ninja",
+    "name": "Snell",
+    "nameBits": ["Snell"],
+    "icon": "https://repo.dynastic.co/data/static/version/327710611871891456/327710612077412352?size=180",
+    "section": "Tweaks",
+    "repo": "Dynastic"
+  },
+  {
+    "id": "com.matteozappia.sonic",
+    "author": "zeph",
+    "name": "Sonic",
+    "nameBits": ["Sonic"],
+    "icon": "https://havoc.app/media/6228cb57e87d968698cdfab4",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "com.tcbrooks.titan",
+    "author": "tcbrooks",
+    "name": "Titan",
+    "nameBits": ["Titan"],
+    "icon": "https://img.chariz.cloud/icon/titan/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "me.aesthyrica.twttr",
+    "author": "aesthyrica",
+    "name": "twttr",
+    "nameBits": ["twttr"],
+    "icon": "https://repo.dynastic.co/data/static/version/224827860118929408/224827860278312960?size=180",
+    "section": "Tweaks",
+    "repo": "Dynastic"
+  },
+  {
+    "id": "de.mass1veerr0r.unsubapp",
+    "author": "mass1ve_err0r",
+    "name": "UnSub Application",
+    "nameBits": ["UnSub"],
+    "icon": "https://repo.packix.com/api/Packages/5d116ca96f5ead001b789309/icon/download?size=medium&hash=5d229ea0f01adb0014b28fec",
+    "section": "Utilities",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.apextweaks.veloxreloaded",
+    "author": "ApexTweaks",
+    "name": "Velox Reloaded",
+    "nameBits": ["Velox"],
+    "icon": "https://img.chariz.cloud/icon/velox-reloaded/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.apextweaks.veloxreloaded2",
+    "author": "ApexTweaks",
+    "name": "Velox Reloaded 2",
+    "nameBits": ["Velox"],
+    "icon": "https://img.chariz.cloud/icon/velox-reloaded-2/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.spark.vesta",
+    "author": "Spark",
+    "name": "Vesta",
+    "nameBits": ["Vesta"],
+    "section": "Tweaks",
+    "repo": "SparkDev"
+  },
+  {
+    "id": "com.chr1s.vibin",
+    "author": "chris",
+    "name": "Vibin",
+    "nameBits": ["Vibin"],
+    "icon": "https://havoc.app/media/620c1d3888124c0a2af3f80d",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "com.laughingquoll.vigor2",
+    "author": "LaughingQuoll",
+    "name": "Vigor 2",
+    "nameBits": ["Vigor"],
+    "icon": "https://repo.packix.com/api/Packages/5d897392c1fc16001af428b6/icon/download?size=medium&hash=5d8984cdb7d1cd001b55b080",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.esquilli.viper",
+    "author": "Esquilli",
+    "name": "Viper",
+    "nameBits": ["Viper"],
+    "icon": "https://img.chariz.cloud/icon/viper/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.antonym.visum",
+    "author": "Antony .M",
+    "name": "visum",
+    "nameBits": ["visum"],
+    "icon": "https://repo.packix.com/api/Packages/60e83eb7e205f50013b5be82/icon/download?size=medium&hash=2",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.muirey03.waves",
+    "author": "Muirey03",
+    "name": "Waves",
+    "nameBits": ["Waves"],
+    "icon": "https://havoc.app/media/61f9409201a1cb7a5c41f752",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "me.aspenuwu.xenon",
+    "author": "Aspen",
+    "name": "Xenon",
+    "nameBits": ["Xenon"],
+    "icon": "https://img.chariz.cloud/icon/xenon/icon@3x.png",
+    "section": "Tweaks",
+    "repo": "Chariz"
+  },
+  {
+    "id": "com.platykor.yobunevolution",
+    "author": "Plat-Ykor",
+    "name": "Yobun Evolution",
+    "nameBits": ["Yobun"],
+    "icon": "https://repo.packix.com/api/Packages/5fbbc67d00f841001b304980/icon/download?size=medium&hash=5fbbc67e00f841001b304986",
+    "section": "Tweaks",
+    "repo": "Packix"
+  },
+  {
+    "id": "com.icraze.yteta",
+    "author": "iCraze",
+    "name": "YTETA",
+    "nameBits": ["YTETA"],
+    "icon": "https://havoc.app/media/61f8adafe40b9eda48112f8b",
+    "section": "Tweaks",
+    "repo": "Havoc"
+  },
+  {
+    "id": "xyz.willy.zebra",
+    "author": "Wilson Styres",
+    "name": "Zebra",
+    "nameBits": ["Zebra"],
+    "icon": "https://chariz.com/img/zebra.png",
+    "section": "Packaging",
+    "repo": "Zebra"
+  }
+]

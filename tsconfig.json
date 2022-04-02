@@ -1,0 +1,39 @@
+{
+	"extends": "@tsconfig/node16-strictest-esm/tsconfig.json",
+
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"*": ["./src/*"],
+			"react": ["node_modules/preact/compat/"],
+			"react-dom": ["node_modules/preact/compat/"]
+		},
+		"typeRoots": ["./src/types", "node_modules/@types"],
+
+		"lib": ["dom", "dom.iterable", "es2015.symbol.wellknown"],
+
+		"incremental": true,
+		"sourceMap": true,
+		"removeComments": true,
+
+		"moduleResolution": "node",
+		"jsx": "react-jsx",
+		"jsxImportSource": "preact",
+
+		// Needed for preact/compat, but it’s also super annoying to deal with modules’ problems anyway.
+		// https://preactjs.com/guide/v10/getting-started#typescript-preactcompat-configuration
+		"skipLibCheck": true,
+
+		"allowSyntheticDefaultImports": true,
+		"resolveJsonModule": true,
+		"experimentalDecorators": true
+	},
+
+	"include": ["src/**/*.tsx", "src/**/*.ts"],
+
+	"exclude": ["{,**/}node_modules", "webpack.config.ts"],
+
+	"ts-node": {
+		"transpileOnly": true
+	}
+}
