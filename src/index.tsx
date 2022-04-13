@@ -18,6 +18,7 @@ if (import.meta.webpackHot) {
 
 let appTheme = extendTheme({
 	config: {
+		initialColorMode: "system",
 		useSystemColorMode: true
 	},
 	fonts: {
@@ -32,6 +33,13 @@ let appTheme = extendTheme({
 			baseStyle: {
 				textTransform: "none",
 				letterSpacing: "none"
+			}
+		}
+	},
+	styles: {
+		global: {
+			body: {
+				transitionProperty: "none"
 			}
 		}
 	}
