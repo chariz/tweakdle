@@ -1,4 +1,4 @@
-import { BackgroundProps, Box, Button, ColorProps, useBreakpointValue, useColorMode } from "@chakra-ui/react";
+import { BackgroundProps, Box, BoxProps, Button, ColorProps, useColorMode } from "@chakra-ui/react";
 import {type Guess, GuessKind} from "./State";
 
 const keyRows = [
@@ -23,20 +23,20 @@ export default function Keyboard({
 	let { colorMode } = useColorMode();
 	let isDark = colorMode === "dark";
 
-	let m = useBreakpointValue({
+	let m: BoxProps["m"] = {
 		base: 0.5,
 		md: 1
-	})!;
+	};
 
-	let minWidth = useBreakpointValue({
-		base: "var(--chakra-sizes-7)",
-		md: "var(--chakra-sizes-8)"
-	})!;
+	let minWidth: BoxProps["minWidth"] = {
+		base: 7,
+		md: 8
+	};
 
-	let px = useBreakpointValue({
+	let px: BoxProps["px"] = {
 		base: 0.5,
 		md: 2
-	})!;
+	};
 
 	return (
 		<Box

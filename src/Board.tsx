@@ -1,15 +1,15 @@
-import { BackgroundProps, Box, Button, ColorProps, useBreakpointValue, useColorMode } from "@chakra-ui/react";
+import { BackgroundProps, Box, BoxProps, Button, ColorProps, useColorMode } from "@chakra-ui/react";
 import { type Guess, GuessKind } from "State";
 
 export default function Board({board}: {board: (Guess|null)[][]}) {
 	let { colorMode } = useColorMode();
 	let isDark = colorMode === "dark";
 
-	let size = useBreakpointValue({
+	let size: BoxProps["w"] = {
 		base: 14,
 		sm: 16,
 		md: 20
-	}) as number;
+	};
 
 	return (
 		<Box
@@ -44,8 +44,8 @@ export default function Board({board}: {board: (Guess|null)[][]}) {
 							<Button
 								as="div"
 								key={guess}
-								width={size}
-								height={size}
+								w={size}
+								h={size}
 								m={1}
 								pt={1}
 								fontSize="4xl"

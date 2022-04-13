@@ -136,7 +136,7 @@ export default function App() {
 							>
 								<Flex alignItems="center" mb={3}>
 									<Box
-										width="60px"
+										w="60px"
 										borderRadius={13}
 										borderWidth="1px"
 										borderColor="blackAlpha.100"
@@ -276,8 +276,8 @@ export default function App() {
 					>
 						<Flex alignItems="center">
 							<Box
-								width="24px"
-								height="24px"
+								w="24px"
+								h="24px"
 								borderWidth="1px"
 								borderColor="blackAlpha.100"
 								backgroundColor="blackAlpha.50"
